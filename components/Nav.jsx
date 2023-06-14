@@ -23,8 +23,8 @@ const Nav = () => {
         <Image
           src="/assets/images/logo.png"
           alt="logo"
-          width={50}
-          height={50}
+          width={40}
+          height={40}
           className="object-contain rounded-full bg-transparent"
         />
         <p className="logo_text">Prompt Universe</p>
